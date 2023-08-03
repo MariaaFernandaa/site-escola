@@ -3,5 +3,9 @@ body{
     background-color: pink;
 }
 table{
-width: 900px;
+width: 800px;
+}
+
+.brownie{
+    width: 200px;
 }
