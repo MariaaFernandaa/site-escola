@@ -3,9 +3,10 @@ body{
     background-color: pink;
 }
 table{
-width: 800px;
+width: 900px;
+background-color: rgb(166, 255, 178);
 }
 
-.brownie{
+img{
     width: 200px;
 }
